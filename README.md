@@ -1,4 +1,4 @@
-> **Disclaimer:** The assignments and solutions for AI-1 are property of the [KWARC](https://kwarc.info/) research group at [FAU](https://www.fau.eu/) and [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/). Remember that copying content from here is your responsibility.
+> **Disclaimer:** The assignments and solutions for AI-1 course are property of the [KWARC](https://kwarc.info/) research group at [FAU](https://www.fau.eu/) and [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/). Remember that copying content from here is your responsibility.
 
 # FAU - Artificial Intelligence I Assignments (WS'2022/23)
 
@@ -19,4 +19,4 @@ Throughout this course, Prolog was utilized for programming exercises. Valuable 
 - SWI-Prolog: [https://www.swi-prolog.org](https://www.swi-prolog.org/)
 - SWISH (A web based SWI-Prolog environment): [https://swish.swi-prolog.org](https://swish.swi-prolog.org/)
 
-> Feel free to explore, learn, and contribute to the world of Artificial Intelligence!
+Feel free to explore, learn, and contribute to the world of Artificial Intelligence!
