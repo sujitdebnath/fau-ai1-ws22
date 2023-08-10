@@ -9,7 +9,7 @@ Welcome to the Artificial Intelligence I assignments repository for the Winter'2
 - Streamed Lectures: [https://www.fau.tv/course/id/3180](https://www.fau.tv/course/id/3180)
 - Course Notes: [https://kwarc.info/teaching/AI/notes.pdf](https://kwarc.info/teaching/AI/notes.pdf)
 - AI-Enhanced Course Materials: [https://courses.voll-ki.fau.de/course-home/ai-1](https://courses.voll-ki.fau.de/course-home/ai-1)
-- My Personal Notes: [AI Course Notes](fau-ai1-assignments-ws22/AI Course Notes.pdf)
+- My Personal Notes: [AI Course Notes](https://github.com/sujitdebnath/fau-ai1-assignments-ws22/blob/main/AI%20Course%20Notes.pdf)
 
 ## Prolog
 
