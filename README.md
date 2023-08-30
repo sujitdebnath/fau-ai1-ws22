@@ -1,8 +1,8 @@
-> **Disclaimer:** The assignments and solutions for AI-1 course are property of the [KWARC](https://kwarc.info/) research group at [FAU](https://www.fau.eu/) and [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/). Remember that copying content from here is your responsibility.
+> **Disclaimer:** The assignments, exam papers, including other documents for AI-1 course are property of the [KWARC](https://kwarc.info/) research group at [FAU](https://www.fau.eu/) and [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/). Remember that copying content from here is your responsibility.
 
-# FAU - Artificial Intelligence I Assignments (WS'2022/23)
+# FAU - Artificial Intelligence I (WS'2022/23)
 
-Welcome to the Artificial Intelligence I assignments repository for the Winter'2022/23 semester at [Friedrich-Alexander University Erlangen-Nürnberg](https://www.fau.eu/). This repository contains assignments of the [AI-1](https://kwarc.info/courses/ai1/) course, taught by [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/), who specializes in Knowledge Representation/Processing at FAU Erlangen-Nürnberg.
+Welcome to the Artificial Intelligence I repository for the Winter'2022/23 semester at [Friedrich-Alexander University Erlangen-Nürnberg](https://www.fau.eu/). This repository contains assignments, their respective solutions and exam papers, including other necessary documents of the [AI-1](https://kwarc.info/courses/ai1/) course, taught by [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/), who specializes in Knowledge Representation/Processing at FAU Erlangen-Nürnberg.
 
 ## Course Resources
 
